@@ -1,4 +1,5 @@
 # Scalable Teaching
 
-Source code for [Scalable Teaching Guide](https://shenshen.mit.edu/scalableteaching/)
-Documentations for [Developers](/_docs/_devs.md)
+Source code of the [Scalable-teaching](https://shenshen.mit.edu/scalableteaching/) underground guide.
+
+(Rough) documentations for [Developers](/_docs/_devs.md)
