@@ -1,8 +1,4 @@
-# Grad ML
+# Scalable Teaching
 
-Source code for [https://gradml.mit.edu](https://gradml.mit.edu)
-
-Documentations for:
-
-- [Developers](/_docs/_devs.md)
-- [Staff members](/_docs/_staff.md)
+Source code for [Scalable Teaching Guide](https://shenshen.mit.edu/scalableteaching/)
+Documentations for [Developers](/_docs/_devs.md)
