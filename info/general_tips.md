@@ -15,10 +15,10 @@ nav_order: 0
 ## Make a publicly-accessible site (even if merely for the logistics)
 A publicly-accessible site (of at least course logistics FAQs) significantly reduces the volume of inquiries before and during the first few weeks of the course run. It also doubles as an internal knowledge base for onboarding new staff members.
 
-There are various ways a website can be set up in place, or in conjuction, of the services provided by MIT IST. Here are two examples:
+There are various ways a website can be set up, in place, or in conjuction, of the services provided by MIT IST. Here are some "models":
 
 ### All-in-one site model
-where course info, courseware, and gradebook/extensions alike are all handled by a standalone site. 
+where course info, courseware, and grades/extensions alike are all handled by a standalone site. 
 
 At EECS, these courses typically run via [catsoop](https://catsoop.org). Depending on if you'd like to host the website on a physical machine on campus or up in the cloud, the spin-up process can vary a little bit. Adam Hartz and I are probably able to help; at some point you might also need to contact Fletch.
 
