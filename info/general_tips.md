@@ -95,7 +95,9 @@ where `<6st_staff>` and `<my_list>` could be tweaked to your liking.
 ### Funnel everything to e.g. Piazza
 or Discourse forum, or any other "central" place.
 
-## Remember the students (names and faces)
+
+## Create an inclusive learning environment
+### Remember students (names and faces)
 
 The Registrar releases pictured roster PDF. I found that just sweeping through the roster back and forth itself can be helpful; but since the roster is alphabetically ordered, sometimes a head-on memorization approach may not be the most efficient. 
 
@@ -104,10 +106,11 @@ All is not lost. The python script below crops photos out of the roster PDF, and
 
 Also, every class has a Canvas site -- some are not Published by the Instructors' choice so remain invisible to students. Regardless of the visibility to students, staff members have back-end access to the `People` page, which offers handy name search and shows students-uploaded pictures -- much like a digital year book.
 
-What if we want an Anki deck via the Canvas route too? Well, the python script below does exactly that -- except it interacts with a Canvas instance to programmatically download student pictures (instead of cropping from a PDF). 
+What if we want an Anki deck via the Canvas route too? Well, the python script below does exactly that, as before -- except that instead of cropping photos from a PDF, it interacts with a Canvas instance to programmatically download student pictures. 
 
 
 TODO: add the two scripts here
 
+### Consider open-source 
 
-
+By making course materials accessible to everyone, regardless of their registration status, or past experiences, we create opportunities for individuals from diverse backgrounds to contribute and collaborate. This inclusivity fosters a more diverse community, bringing in different perspectives, experiences, and ideas. 
