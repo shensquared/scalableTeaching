@@ -21,13 +21,17 @@ A collection of widgets and small apps to make administrivia fun and efficient!
 A drag-and-drop [Enrollment Pie](https://shenshen.mit.edu/pie/) for visualizing enrollment stats.
 
 <figure>
-<embed src="{{site.baseurl}}/assets/images/pie.gif" style="width:90.0%" />
+<embed src="{{site.baseurl}}/assets/images/pie.gif" style="width:80.0%" />
 </figure>
 
 ## Scheduling stuff
 ### On-demand OHs booking
 
-I host an on-demand OHs [booking](https://cal.shenshen.mit.edu/shensquared/gradml-ohs) tool. It is intended to complement fix-scheduled OHs. 
+I host this on-demand OHs [booking](https://cal.shenshen.mit.edu/shensquared/gradml-ohs) tool. It is intended to complement fix-scheduled OHs. 
+
+<figure>
+<embed src="{{site.baseurl}}/assets/images/cal.gif" style="width:100.0%" />
+</figure>
 
 The tool is publicly accessible and offers "seats", which can be helpful if a student wants to tag along and join in others' booking. Also, I host the server in my office and all data is encrypted. Feel free to register an account.
 ### Academic Calendar Template
