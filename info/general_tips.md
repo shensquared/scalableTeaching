@@ -18,9 +18,15 @@ A publicly-accessible site (of at least course logistics FAQs) significantly red
 There are various ways a website can be set up in place, or in conjuction, of the services provided by MIT IST. Here are two examples:
 
 ### All-in-one site model
-where course info, plus courseware and gradebook are all handled via a standalone independent site. 
+where course info, courseware, and gradebook/extensions alike are all handled by a standalone site. 
 
-At EECS, these courses typically run via [catsoop](https://catsoop.org), e.g. [6.101 py](https://py.mit.edu) and [6.390 introml](https://introml.mit.edu/spring23). Depending on if you'd like to host the website on a physical machine on campus or up in the cloud, the process can vary a little bit. Adam Hartz and I are probably able to help with the consultation.
+At EECS, these courses typically run via [catsoop](https://catsoop.org). Depending on if you'd like to host the website on a physical machine on campus or up in the cloud, the spin-up process can vary a little bit. Adam Hartz and I are probably able to help; at some point you might also need to contact Fletch.
+
+Examples:
+
+- 6.390 [Intro to Machine Learning](https://introml.mit.edu/spring23)
+
+- 6.411 [Representation, Inference and Reasoning in AI](https://airr.mit.edu/fall23)
 
 <!-- [introml](https://introml.mit.edu/spring23) -->
 
@@ -28,61 +34,80 @@ At EECS, these courses typically run via [catsoop](https://catsoop.org), e.g. [6
 
 
 ### Hybrid sites (model I)
-where course info has a dedicated site, and courseware and gradebooks are handled via Canvas (and e.g. Piazza modules linked therein). 
+where course info and courseare has a dedicated site, and all else is handled by Canvas (and modules linked therein like Piazza). 
 
-Examples here incldue [Computer Vision]()
+Examples:
+
+- 6.7900 [Machine Learning](https://gradml.mit.edu/)
+
+- 6.8300 [Advances in Computer Vision](http://6.8300.csail.mit.edu/sp23/schedule.html)
+
 <!-- [gradml](https://gradml.mit.edu) -->
 <!-- <iframe src="https://gradml.mit.edu/" width=1000 height=300 async></iframe> -->
 
 ### Hybrid sites (model II)
-where course info has a dedicated site, and courseware has an independent site. 
+where course info has a dedicated site, courseware has a dedicated site, and all else are is handled via other tech stack. 
 
-Examples include the [Underactuated Robotics]()
+Examples:
+
+- 6.4210 [Robotic Manipulation](https://manipulation.csail.mit.edu/Fall2023/) (and a separate [courseware](https://manipulation.mit.edu) site)
+
+- 6.8210 [Underactuated Robotics](https://underactuated.csail.mit.edu/Spring2023/) (and a separate [courseware](http://underactuated.mit.edu) site)
 
 ### Stick with just Canvas
-where the Canvas site is made public -- either all of it or parts of it. For instance, an easy yet clever idea is to set up a public module on Canvas, dediacated for pre-semester FAQs, where the rest of the modules remain restrictied to registered students (or to all MIT members).
+where the Canvas site is made public -- either all of it or parts of it. An easy (yet clever) idea is to set up a public module on Canvas, dedicated for pre-semester FAQs, where the rest of the modules remain restricted to registered students (or to all MIT members).
+
+Examples:
+
+- 6.C06/18.C06 [Linear Algebra and Optimization](https://canvas.mit.edu/courses/16629)
 
 ## Consider to open-source course materials (as much as possible)
 
-Sharing is great; and also mutually beneficial! With source texts and source code openly accesible, we create an inviting and prodcutive learning community! Personally, I've submitted unsolicited Pull Request (PR) to various lecture notes, and recently have received unsolicited PR to the gradML draft site I'm grad(ually) building up.
+In my experience, with source texts and source code openly accessible, we create an inviting and productive learning community, and a positive feedback loop (positivity is good here:).
 
-I truly believe open-sourcing helps create a positive feedback loop (positive is good in this case).
+Personally, I've submitted unsolicited Pull Request (PR) to various lecture notes, and recently I've received unsolicited PR to the [gradML](https://gradml.mit.edu) draft site I'm grad(ually) building up. 
+
+I was quite thrilled about this "full-circle". I think that's the magic of open-sourcing; sharing is mutually beneficial!
 
 ## Update the Registrar Course Catalog (e.g., link course site there)
 Most students shop for classes by checking out the [Course Catalog](http://student.mit.edu/catalog/m6a.html). 
 
-It's therefore a good idea to keep the info there up-to-date; it's also been helpful for us to list the course website as "extra info" there.
+It's therefore a good idea to keep the info there up-to-date; I've also found it helpful to list the course website as "extra info" there.
 
 [Lisa Bella]({{site.baseurl}}/info/contact/#lisa-bella) is the point person for requesting such changes.
 
 ## Pick a single place to handle logistical requests
-Typically, the more staff member have access to the info, the less communication need. 
+and as many staff members having access to it as possible/sensible; and as few members acting on it as possible/sensible.
+The "acting" part really varies from course to course; we focus on the "accessing" part below.
 
 ### Moira email list and tricks
-- WebMoira is super intuitive (though may induce Carpel Tunnel, if you run a bit class and need to add lots of folks)
-- Blanche 
 
+[WebMoira](https://groups.mit.edu/webmoira/) is super intuitive to use (though may induce carpal-tunnel syndrome, if you run a big class and need to add lots of folks). It's possible to create a list more programmatically on Athena. The process goes like this:
+
+1. Make an arbitrarily-named plain-text file, say, `my_list.txt`, with single kerb per line.
+
+2. Suppose you want your Moira list to be `6st_staff@mit.edu`, then get on Athena, run: 
 ```sh
-
+blanche <6st_staff> -al <my_list>.txt
 ```
+where `<6st_staff>` and `<my_list>` could be tweaked to your liking. 
 
-### Funnel eveything to e.g. Piazza
+### Funnel everything to e.g. Piazza
 or Discourse forum, or any other "central" place.
 
 ## Remember the students (names and faces)
 
-The Registrar releases pictured roster. The python script below crops those photos out and save the file with student names. 
+The Registrar releases pictured roster PDF. I found that just sweeping through the roster back and forth itself can be helpful; but since the roster is alphabetically ordered, sometimes a head-on memorization approach may not be the most efficient. 
 
-TODO: add the script here
-
-I typically just sweep through the deck a few rounds; but one can go fancy and make this an Anki deck to help facilitate the memorization.
-
-Also, every class has a Canvas site -- some are not Published by the Instructors' choice so remain invisible to students. Regardless of the visibility to students, staff members have access to the `People` tab on Canvas, with handy name search and students-uploaded pictures -- much like a year book.
-
-The python script below interacts with Canvas instance to programmatically download student pictures (saved as kerb.png or kerb.jpg)
+All is not lost. The python script below crops photos out of the roster PDF, and save the file with student names. One can then go make an Anki deck to facilitate the memorization.
 
 
+Also, every class has a Canvas site -- some are not Published by the Instructors' choice so remain invisible to students. Regardless of the visibility to students, staff members have back-end access to the `People` page, which offers handy name search and shows students-uploaded pictures -- much like a digital year book.
 
+What if we want an Anki deck via the Canvas route too? Well, the python script below does exactly that -- except it interacts with a Canvas instance to programmatically download student pictures (instead of cropping from a PDF). 
+
+
+TODO: add the two scripts here
 
 
 

@@ -18,7 +18,7 @@ has_toc: true
 
 ### Timeline
 - For fall semesters, TA appointments start on September 1st. 
-- For Spring semesters, TA appointments start on Januarary 15th. 
+- For Spring semesters, TA appointments start on January 15th. 
 
 Sample scheduling email:
 ```markdown
@@ -40,7 +40,7 @@ Sample scheduling email:
 
 ## Undergrad-level course checklist
 
-## Graduate-level course
+## Graduate-level course checklist
 
 ## Misc
 - Classroom booking (for office hours)

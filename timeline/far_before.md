@@ -22,12 +22,12 @@ The department runs centralized TA matching/hiring.
 - For upcoming Spring semesters, TA-preference deadline typically fall somewhere mid-October. 
 - For upcoming Fall semesters, TA-preference deadline typically fall somewhere mid-March. 
 - Instructors are to indicate "preferences" (and only preferences.)
-- A matching algorithm takes into conisderation the courses' preferences and the candidates' to make pairing recommendations.
-- The EOs make offers on behalf of the deparment.
+- A matching algorithm takes into consideration the preferences from both the courses and the candidates, and the algorithm spits out pairing recommendations.
+- The EOs make hiring offers on behalf of the department.
 
 ### Tips
 - 1 GradTA slot = 4 Undergraduate TA slots
-- GradTA appoitment comes with full tuition, monthly stipend, and medical insurance. 
+- GradTA appointment comes with full tuition, monthly stipend, and medical insurance. 
 
 
 ## LA hiring (if applicable)
