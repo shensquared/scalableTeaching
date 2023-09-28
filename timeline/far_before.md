@@ -38,6 +38,7 @@ LA and grader hiring can happen a lot later than TA hiring and there's no set de
 ### Tips
 - A couple of big undergraduate courses have been hiring LAs in a centralized manner, via [eecsla](https://eecsla.mit.edu/) site. If you're interested in joining the fun, feel free to reach out to Adam Hartz or Rob Miller.
 - More info about e.g. the pay of such [Hourly Employment](https://www.eecs.mit.edu/resources/student-hourly-employment/)
+- LAs and Graders are to submit time sheets. These are to be approved by the department Financial office (led by Irene Yong Rong Huang).
 
 
 ## Academic Calendar
