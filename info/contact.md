@@ -14,8 +14,27 @@ nav_order: 22
 # Point of contact
 
 ## At EECS
-### The EOs
+### The Education Officers (EOs)
+- Dennis Freeman, Education Officer for EECS
+
+- Elfar Adalsteinsson, Education Officer for Electrical Engineering (EE)
+
+- Robert C. Miller, Education Officer for Computer Science (CS)
+
+- Yury Polyanskiy, Education Officer for Artificial Intelligence and Decision Making (AI+D)
+
 ### Lisa Bella
+
+- processes TA appointment 
+
+- is the department liaison with all matters involving the Registrar
+
+- should be contacted for all classroom booking:
+    <!-- <details> -->
+
+    There are basically two types of classrooms for us. first, there's the Registrar-"owned" rooms, and the Registrar will only confirm your booking if it comes from Lisa. Second, there's the department-"owned" rooms, e.g., those tutorial rooms in building 24 and a few "special" rooms in building 34; booking of these rooms are immediately and directly confirmed by Lisa.
+    <!-- </details> -->
+
 
 ### The EECS Undergrad Office
 
@@ -24,17 +43,19 @@ nav_order: 22
 ## Broadly at MIT
 
 
+
+
 ### The Registrar
 
 
-### Student Support Services - S^3
+### Student Support Services (S3)
 
 For undergrad students, if you are dealing with a personal or medical issue that is impacting your ability to attend class, complete work, or take an exam, you should contact a dean in Student Support Services (S3). S3 is here to help you. The deans will verify your situation, provide you with support, and help you work with your professor or instructor to determine next steps. 
 
 In most circumstances, you will not be excused from coursework without verification from a dean. Please visit the [S3 website](https://studentlife.mit.edu/s3) for contact information and more ways that they can provide support.
 
 
-### Disability and Access Services - DAS
+### Disability and Access Services (DAS)
 
 We are committed to the principle of equal access, and we are more
 than willing to make arrangements to help accommodate students with
