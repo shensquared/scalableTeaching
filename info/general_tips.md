@@ -111,6 +111,7 @@ What if we want an Anki deck via the Canvas route too? Well, the python script b
 
 TODO: add the two scripts here
 
-### Consider open-source 
+### Consider open-source (sorry to nag about this again... )
+
 
 By making course materials accessible to everyone, regardless of their registration status, or past experiences, we create opportunities for individuals from diverse backgrounds to contribute and collaborate. This inclusivity fosters a more diverse community, bringing in different perspectives, experiences, and ideas. 

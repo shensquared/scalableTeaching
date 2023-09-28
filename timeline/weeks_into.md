@@ -16,6 +16,7 @@ has_toc: true
 
 # Early Semester
 
+The Faculty Governance releases beginning-of-term regulations for both [Undergraduate subjects](https://facultygovernance.mit.edu/faculty-rules-page#undergraduatesubjects-beginningofterm) and [Graduate subjects](https://facultygovernance.mit.edu/faculty-rules-page#graduatesubjects-beginningofterm)
 ## First week
 
 ### Turn on various portals/tools

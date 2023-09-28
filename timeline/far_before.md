@@ -27,20 +27,18 @@ The department runs centralized TA matching/hiring.
 
 ### Tips
 - 1 GradTA slot = 4 Undergraduate TA slots
-- GradTA appointment comes with full tuition, monthly stipend, and medical insurance. 
+- Grad TAs are expected to work at the maximum of 20hours per week
+- Undergraduate TA are expected to work at the maximum of 10hours per week
 
-
-## LA hiring (if applicable)
-Unlike TA hiring, LA hires are typically done by individual courses.
-
+## LA/grader hiring
+Unlike TA hiring, LA and grader hires are typically done by individual courses. The detailed procedure can be found also on Eduportal, under this [tab](https://eecseduportal.mit.edu/eduportal/lects/#my-assigned-classes--la-graders)
 ### Timeline 
-
+LA and grader hiring can happen a lot later than TA hiring and there's no set deadlines. 
 
 ### Tips
-A couple of big undergraduate courses have been hiring LAs in a centralized manner, via [EECS LA site](https://eecsla.mit.edu/). If you're interested in joining the fun, feel free to reach out to Adam Hartz or Rob Miller.
+- A couple of big undergraduate courses have been hiring LAs in a centralized manner, via [eecsla](https://eecsla.mit.edu/) site. If you're interested in joining the fun, feel free to reach out to Adam Hartz or Rob Miller.
+- More info about e.g. the pay of such [Hourly Employment](https://www.eecs.mit.edu/resources/student-hourly-employment/)
 
-
-## Grader hiring (if applicable)
 
 ## Academic Calendar
 Check the Registrar for the Academic Calendar for various key dates (Add/Drop dates, holiday, deadlines.)

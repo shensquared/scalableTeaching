@@ -38,9 +38,9 @@ Sample scheduling email:
 ### Exam conflict/accommodation policy
 
 
-## Undergrad-level course checklist
+## Undergraduate subjects checklist
 
-## Graduate-level course checklist
+## Graduate subjects checklist
 
 ## Misc
 - Classroom booking (for office hours)
