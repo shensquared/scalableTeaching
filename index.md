@@ -18,13 +18,16 @@ has_toc: false
 
 👋 Hi there! This site is intended as an "underground guide" on the teaching and running an MIT EECS course (particularly the logistical side of it).
 
-Some quick notes:
-- This guide is unofficial -- based on my personal experience and big thanks to the [folks'](./credits) collective wisdom. 
-- This guide focuses on EECS courses, but a lot of it does apply MIT wide.
-- This guide is hopefully helpful for big classes; some parts may be useful more broadly though.
+{: .warning}
+> Some quick notes:
+>- This guide is unofficial -- based on my personal experience and big thanks to the [folks'](./credits). 
+>- This guide focuses on EECS courses, but a lot of it does apply MIT wide.
+>- This guide is hopefully helpful for big classes; some parts may be useful more broadly though.
+>- Right now contents are sparse... and rough... 🫣
+
 
 This site currently has these features:
-- 👆 Built-in search box on top
+- 👆 Site-wide search box on top
 - Annotation and highlighting (click me :)
 - Click-to-copy code snippets
 - 👇 Quick edit via the footnote link (feature requests and bug reports super welcome)
