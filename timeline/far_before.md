@@ -42,4 +42,4 @@ LA and grader hiring can happen a lot later than TA hiring and there's no set de
 
 
 ## Academic Calendar
-Check the Registrar for the Academic Calendar for various key dates (Add/Drop dates, holiday, deadlines.)
+Check the Registrar for the [Academic Calendar](https://registrar.mit.edu/calendar) for various key dates (Add/Drop dates, holiday, deadlines.)
