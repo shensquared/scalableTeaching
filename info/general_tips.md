@@ -20,7 +20,7 @@ nav_order: 0
 
 Mimic the "separation of power".
 
-In particular, there should be one single person (or a very small number of persons) that are fully in charge of all policies. Potentially a different set of persons could be the "execution" branch.  
+In particular, it's very benefitial to have one single person (or a very small number of persons) to be fully in charge of "making" all policies. Potentially a different set of persons could be the "execution" branch.  
 
 ## Make a publicly-accessible site (even if merely for the logistics)
 A publicly-accessible site (of at least course logistics FAQs) significantly reduces the volume of inquiries before and during the first few weeks of the course run. It also doubles as an internal knowledge base for onboarding new staff members.

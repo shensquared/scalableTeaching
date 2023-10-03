@@ -30,13 +30,21 @@ nav_order: 22
 - is the department liaison with all matters involving the Registrar
 
 - should be contacted for all classroom booking:
-    <!-- <details> -->
 
     There are basically two types of classrooms for us. first, there's the Registrar-"owned" rooms, and the Registrar will only confirm your booking if it comes from Lisa. Second, there's the department-"owned" rooms, e.g., those tutorial rooms in building 24 and a few "special" rooms in building 34; booking of these rooms are immediately and directly confirmed by Lisa.
-    <!-- </details> -->
 
 
 ### The EECS Undergrad Office
+
+The [UG](https://www.eecs.mit.edu/academics/undergraduate-programs/resources-for-current-students/) is the same office that administers e.g. course-6 undergad registration, degree-requirement petition; their juristication extends to the MEng program too.
+
+In terms of specific course-related matters, the UG might only be reaching out directly to the course staff regarding:
+
+- Mid-term flagging
+- IAP course proposal; including graduate-level IAP course proposal. (As an aside, Spring/Fall new course proposal should go directly to the EOs)
+- Past-term OX (if this student is in the graduating class)
+- Special reqeust and/or accommodations (these more typically would come from the S3 and/or DAS; but there are rare situations where UG would need to get invovled too).
+
 
 ### The EECS Graduate Office
 
