@@ -27,12 +27,13 @@ nav_order: 22
 
 - processes TA appointment 
 
-- is the department liaison with all matters involving the Registrar
-
 - should be contacted for all classroom booking:
 
     There are basically two types of classrooms for us. first, there's the Registrar-"owned" rooms, and the Registrar will only confirm your booking if it comes from Lisa. Second, there's the department-"owned" rooms, e.g., those tutorial rooms in building 24 and a few "special" rooms in building 34; booking of these rooms are immediately and directly confirmed by Lisa.
 
+- is the department liaison with all matters involving the Registrar:
+
+    What this means is that, for a lot of things that you'd try to ask the Registrar for, for an EECS subject -- system access, course records, etc. -- you may be able to short-circuit and get them from Lisa.
 
 ### The EECS Undergrad Office
 
