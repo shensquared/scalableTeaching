@@ -22,6 +22,8 @@ title:  Spring 2024
 03-29
 : **Holiday**{: .label .label-gray} (Spring Break End)
 
+04-15
+: **Holiday**{: .label .label-gray} (Patriots' Day)
 
 04-23
 : **Drop Date**{: .label .label-yellow}
