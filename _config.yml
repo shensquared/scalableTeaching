@@ -22,7 +22,6 @@ title: 6.ST <br> Scalable Teaching
 tagline: 6.ST - Scalable Teaching
 email: shenshen@mit.edu
 description: "Scalable Teaching, MIT EECS"
-# logo: "./assets/images/790-txt.png"
 
 upcoming: Spring 2024
 baseurl: "/scalableteaching" # the subpath of your site, e.g. /blog
@@ -44,7 +43,6 @@ aux_links_new_tab: true
 plugins:
     - jekyll-feed
     - jekyll-default-layout
-    # - jekyll-pandoc
     - jekyll-last-modified-at
     - jekyll-seo-tag
 
@@ -99,8 +97,6 @@ exclude:
     - vendor/gems/
     - vendor/ruby/
     - venv/
-    - gradML_sources
-    - booksNotes/
 # Collections for website data
 collections:
     staffers:
