@@ -10,7 +10,7 @@ nav_order: 0
 {% for module in site.modules %}
 {{ module }}
 
-## `python` encoding of the dates/events
+## `python` encoding of the dates/events (click-to-copy in case u could use this to build your own app)
 
 ```py
 {% include_relative /_modules/spring24.py %}

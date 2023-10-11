@@ -9,7 +9,7 @@ title:  Spring 2024
 : **Holiday**{: .label .label-gray} (President Day)
 
 02-20
-: **Monday Schedul**{: .label .label-red}
+: **Monday Schedule**{: .label .label-red}
 
 03-08
 : **Add Date**{: .label .label-yellow}
@@ -35,7 +35,7 @@ title:  Spring 2024
 : **Last Class**{: .label .label-red}
 
 05-17
-: **Final Exam Statrt**{: .label .label-purple}
+: **Final Exam Start**{: .label .label-purple}
 
 05-22
 : **Final Exam End**{: .label .label-purple}
