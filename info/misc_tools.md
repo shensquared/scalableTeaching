@@ -40,7 +40,7 @@ I maintain a [Course Calendar Template](https://shenshen.mit.edu/git/shensquared
 
 ### w2m (private and prettier When2Meet alternative)
 
-[w2m](https://shenshen.mit.edu/w2m)
+[w2m](https://w2m.shenshen.mit.edu/)
 
 
 ## Machine-learning courses tree
